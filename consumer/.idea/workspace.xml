@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7222235d-4017-4ec8-8896-d925fff26728" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../producer/src/main/java/com/kafka/config/ProducerFactoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../producer/src/main/java/com/kafka/config/ProducerFactoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../producer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../producer/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -39,12 +40,17 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="35LEJbFB3Bv0m7l4cWoj52W6qlq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.consumer [clean].executor": "Run",
+    "Maven.consumer [package].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -53,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.ConsumerApplication.executor": "Run",
-    "git-widget-placeholder": "Kafka-Consumer",
+    "git-widget-placeholder": "Docker",
     "last_opened_file_path": "C:/JavaUtilities/Proyectos/Kafka/consumer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,7 +95,8 @@
       <updated>1762880880723</updated>
       <workItem from="1762880881898" duration="705000" />
       <workItem from="1762883392362" duration="401000" />
-      <workItem from="1762883804353" duration="1851000" />
+      <workItem from="1762883804353" duration="2174000" />
+      <workItem from="1762890373525" duration="1514000" />
     </task>
     <servers />
   </component>
