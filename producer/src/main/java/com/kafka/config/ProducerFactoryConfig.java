@@ -19,6 +19,7 @@ public class ProducerFactoryConfig {
 
     private final KafkaProperties kafkaProperties;
 
+    @Bean
     public ProducerFactory<String, String> producerFactory(){
         var configs = new HashMap<String, Object>();
         configs.put(AdminClientConfig.BOOTSTRAP_SERVERS_CONFIG, kafkaProperties.getBootstrapServers());
