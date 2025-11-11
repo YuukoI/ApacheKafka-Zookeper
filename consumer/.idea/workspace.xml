@@ -57,6 +57,7 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.ConsumerApplication.executor": "Run",
     "git-widget-placeholder": "Docker",
@@ -96,7 +97,7 @@
       <workItem from="1762880881898" duration="705000" />
       <workItem from="1762883392362" duration="401000" />
       <workItem from="1762883804353" duration="2174000" />
-      <workItem from="1762890373525" duration="1514000" />
+      <workItem from="1762890373525" duration="3755000" />
     </task>
     <servers />
   </component>
